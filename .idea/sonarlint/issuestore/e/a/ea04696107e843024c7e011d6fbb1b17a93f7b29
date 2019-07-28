@@ -1,0 +1,19 @@
+
+jsquid:S1774S"GConvert this usage of the ternary operator to an "if"/"else" structure.(™²‘øÿÿÿÿ8ëõ´™Ã-
+=squid:S2211Q"Specify a type for: 'view'(§¨ëşüÿÿÿÿ8ëõ´™Ã-
+w
+squid:S109S"UAssign this magic number 0.3f to a well-named constant, and use the constant instead.(™²‘øÿÿÿÿ8ëõ´™Ã-
+squid:S1450"aRemove the "videoScalingButton" field and declare it as a local variable in the relevant methods.(ÒğüŠ8 Ù´™Ã-
+‚squid:S1450"_Remove the "disconnectButton" field and declare it as a local variable in the relevant methods.(áİŠûÿÿÿÿ8Å£Ã-
+E
+squid:S818S"#Upper-case this literal "f" suffix.(™²‘øÿÿÿÿ8ëõ´™Ã-
+‚squid:S1450"_Remove the "toggleMuteButton" field and declare it as a local variable in the relevant methods.(§šÅ¬üÿÿÿÿ8ëõ´™Ã-
+E
+squid:S818S"#Upper-case this literal "f" suffix.(™²‘øÿÿÿÿ8ëõ´™Ã-
+5squid:S2211;"Specify a type for: 'v'(³…¦‰8Å£Ã-
+=squid:S2211E"Specify a type for: 'view'(ÁáŠæıÿÿÿÿ8 Ù´™Ã-
+Nsquid:S1135r"2Complete the task associated to this TODO comment.(³Íãâüÿÿÿÿ
+wsquid:UselessImportCheck"LRemove this unused import 'ru.ermolnik.medication.ui.activity.ListActivity'.(Ã…ö¨8ÿä££Ã-
+:squid:S1309s"#Suppressing warnings is not allowed(ï•–Ã
+Qsquid:S1258":Add a constructor to the class, or provide default values.(±Ú€Ê
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(óÖ‚âûÿÿÿÿ8¿ä¼£Ã-

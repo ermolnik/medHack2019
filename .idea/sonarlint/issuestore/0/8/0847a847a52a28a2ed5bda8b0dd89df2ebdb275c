@@ -1,0 +1,10 @@
+
+?squid:S1604$"(Make this anonymous inner class a lambda(›İ®›
+xsquid:S4174D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€Œä“8®Ë¤Ã-
+Osquid:S1213$"8Move this variable to comply with Java Code Conventions.(›İ®›
+¤squid:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥–‚Ãüÿÿÿÿ8®Ë¤Ã-
+s
+squid:S109C"VAssign this magic number 100.0 to a well-named constant, and use the constant instead.(•êÒ8®Ë¤Ã-
+Osquid:S2325Z",Make "calculateFramerate" a "static" method.(„çî¾ùÿÿÿÿ8®Ë¤Ã-
+t
+squid:S109]"WAssign this magic number 1000.0 to a well-named constant, and use the constant instead.(Ç”¸İ8®Ë¤Ã-

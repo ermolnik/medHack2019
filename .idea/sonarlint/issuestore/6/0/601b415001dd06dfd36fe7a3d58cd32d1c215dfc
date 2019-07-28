@@ -1,0 +1,11 @@
+
+]squid:S1258":Add a constructor to the class, or provide default values.(œ¯Èâıÿÿÿÿ8Ü—ÇŸÃ-
+ssquid:S1450"URemove the "review" field and declare it as a local variable in the relevant methods.(Ÿ‘«8ÏŞŞ¡Ã-
+zsquid:S1450"WRemove the "feedBack" field and declare it as a local variable in the relevant methods.(€¬œúÿÿÿÿ8ÏŞŞ¡Ã-
+rsquid:S1450"TRemove the "vote5" field and declare it as a local variable in the relevant methods.(À†ø8Ü—ÇŸÃ-
+rsquid:S1450"TRemove the "vote3" field and declare it as a local variable in the relevant methods.(À†ø8Ü—ÇŸÃ-
+:squid:S2211-"Specify a type for: 'v'(úÇê’üÿÿÿÿ8°ºìŸÃ-
+:squid:S2211'"Specify a type for: 'v'(®±éøÿÿÿÿ8ÌÆë¡Ã-
+ˆ-squid:RightCurlyBraceSameLineAsNextBlockCheck5"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬8ëÄîŸÃ-
+5squid:S2211"Specify a type for: 'v'(ç›®8›µÊŸÃ-
+:squid:S2211!"Specify a type for: 'v'(ËôìŠøÿÿÿÿ8äËŸÃ-

@@ -1,0 +1,19 @@
+
+Ksquid:S1612­",Replace this lambda with a method reference.(âëáµ8…ØÉ™Ã-
+=squid:S1166÷"%Either log or rethrow this exception.(ï­£Ä
+Esquid:S26938")Move this "start" call to another method.(ÏáØÔúÿÿÿÿ
+psquid:ModifiersOrderCheck…"EReorder the modifiers to comply with the Java Language Specification.(”³Û”ûÿÿÿÿ
+psquid:ModifiersOrderCheckÉ"EReorder the modifiers to comply with the Java Language Specification.(”³Û”ûÿÿÿÿ
+psquid:ModifiersOrderCheck†"EReorder the modifiers to comply with the Java Language Specification.(ðÎ¹Áüÿÿÿÿ
+=squid:S1166”"%Either log or rethrow this exception.(ï­£Ä
+vsquid:S00118L"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(´¯ó¼
+=squid:S1166ˆ"%Either log or rethrow this exception.(ï­£Ä
+=squid:S1166è"%Either log or rethrow this exception.(ï­£Ä
+psquid:ModifiersOrderCheckÊ"EReorder the modifiers to comply with the Java Language Specification.(ðÎ¹Áüÿÿÿÿ
+<squid:S1166-"%Either log or rethrow this exception.(´ú§â
+=squid:S1166°"%Either log or rethrow this exception.(ï­£Ä
+Rsquid:S1213Y";Move this constructor to comply with Java Code Conventions.(‰¶§Ø
+u
+squid:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+<squid:S1166x"%Either log or rethrow this exception.(ï­£Ä
+=squid:S1166Ù"%Either log or rethrow this exception.(ï­£Ä

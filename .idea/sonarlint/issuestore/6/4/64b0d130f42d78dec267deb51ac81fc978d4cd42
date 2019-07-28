@@ -1,0 +1,7 @@
+
+^squid:S1774^"GConvert this usage of the ternary operator to an "if"/"else" structure.(ÙŠ©‹
+o
+squid:S109J"TAssign this magic number 200 to a well-named constant, and use the constant instead.(îã¾Øÿÿÿÿÿ
+fsquid:S11326"JMove the "POST" string literal on the left side of this string comparison.(áÃÕ³øÿÿÿÿ
+<squid:S1166U"%Either log or rethrow this exception.(íåÿÉ
+<squid:S1166W"%Either log or rethrow this exception.(ï­£Ä

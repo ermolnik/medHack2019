@@ -1,0 +1,14 @@
+
+Hsquid:S2446Û"0"notify" may not wake up the appropriate thread.(´ØÏ¸
+squid:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾¬óúÿÿÿÿ
+Asquid:S1166f"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+Asquid:S1166K"%Either log or rethrow this exception.(”ãŠşÿÿÿÿ
+psquid:S1450!"YRemove the "wsObserver" field and declare it as a local variable in the relevant methods.(àø™²
+˜squid:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡°Â#
+†squid:S1151y"jReduce this switch case number of lines from 11 to at most 5, for example by extracting code into methods.(ŸƒÎ˜üÿÿÿÿ
+j
+squid:S134œ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+^squid:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+<squid:S1166I"%Either log or rethrow this exception.(óûìœ
+Bsquid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+squid:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôşéôùÿÿÿÿ

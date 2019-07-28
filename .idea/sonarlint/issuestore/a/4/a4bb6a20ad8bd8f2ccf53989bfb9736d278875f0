@@ -1,0 +1,7 @@
+
+]squid:S1126@"AReplace this if-then-else statement by a single return statement.(‰ü½…ùÿÿÿÿ
+<squid:S1166i"%Either log or rethrow this exception.(ï­£Ä
+<squid:S1166M"%Either log or rethrow this exception.(‹±ÃÆ
+Lsquid:S2148"5Add underscores to this numeric value for readability(ÓÏ¹Ú
+^squid:S1774I"GConvert this usage of the ternary operator to an "if"/"else" structure.(¶¶
+Msquid:S1153H"1Directly append the argument of String.valueOf().(€Š†µþÿÿÿÿ

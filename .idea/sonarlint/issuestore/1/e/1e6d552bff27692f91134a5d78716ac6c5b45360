@@ -1,0 +1,32 @@
+
+Rsquid:S2148æ"5Add underscores to this numeric value for readability(ì†‹Íùÿÿÿÿ
+Rsquid:S4248¿"3Refactor this code to use a "static final" Pattern.(¡‡…†8ƒ‰ŸÃ-
+p
+squid:S109À"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ü¸ùÍ8ƒ‰ŸÃ-
+Rsquid:S2211â"3Specify a type for: 'adapterView', 'view', 'i', 'l'(ôì™8ƒ‰ŸÃ-
+Ssquid:S2696ã"6Make the enclosing method "static" or remove this set.(áÊ´Áÿÿÿÿÿ
+Qsquid:S1258)":Add a constructor to the class, or provide default values.(ÌÂÃ’
+Wsquid:S1213á"8Move this variable to comply with Java Code Conventions.(¶ÜÜ8ƒ‰ŸÃ-
+©squid:S1200)"‘Split this class into smaller and more specialized ones to reduce its dependencies on other classes from 24 to the maximum authorized 20 or less.(ÌÂÃ’
+Ssquid:S2696Ê"6Make the enclosing method "static" or remove this set.(ëş¦—şÿÿÿÿ
+wsquid:S2250ë"SThis call to "contains()" may be a performance hot spot if the collection is large.(ÁÆáùÿÿÿÿ8ƒ‰ŸÃ-
+Rsquid:S4248¬"3Refactor this code to use a "static final" Pattern.(…¿½8ƒ‰ŸÃ-
+:squid:S2211Ú""Specify a type for: 'dialog', 'id'(æ”ƒÚ
+<squid:S1166“"%Either log or rethrow this exception.(ïõÙE
+v
+squid:S109æ"ZAssign this magic number 100000000 to a well-named constant, and use the constant instead.(ì†‹Íùÿÿÿÿ
+:squid:S2211à""Specify a type for: 'dialog', 'id'(æ”ƒÚ
+hsquid:S4142¡"KVerify that this is the intended value; it is the same as the 1st argument.(ˆìçëøÿÿÿÿ
+p
+squid:S109­"RAssign this magic number 2 to a well-named constant, and use the constant instead.(·Ô“Ù8ƒ‰ŸÃ-
+esquid:S1142‹"MReduce the number of returns of this method 4, down to the maximum allowed 3.(»¸çğ
+@squid:S1309à"#Suppressing warnings is not allowed(½€«³şÿÿÿÿ
+osquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(‘šÛàúÿÿÿÿ
+\squid:S1213ç"8Move this variable to comply with Java Code Conventions.(¿‰‹•øÿÿÿÿ8ƒ‰ŸÃ-
+„
+squid:S138á"hThis method has 205 lines, which is greater than the 75 lines authorized. Split it into smaller methods.(‘šÛàúÿÿÿÿ
+Bsquid:S1166¹"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+Msquid:S2211T"/Specify a type for: 'textView', 'i', 'keyEvent'(Š³ä£8ş•ˆ£Ã-
+\squid:S1213ò"8Move this variable to comply with Java Code Conventions.(ƒÈ¡‰ÿÿÿÿÿ8ƒ‰ŸÃ-
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8‡¾æ§Ã-
+• squid:MethodCyclomaticComplexityá"cThe Cyclomatic Complexity of this method "connectToRoom" is 22 which is greater than 10 authorized.(‘šÛàúÿÿÿÿ

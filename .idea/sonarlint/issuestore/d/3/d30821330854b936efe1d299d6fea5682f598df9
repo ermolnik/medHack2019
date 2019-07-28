@@ -1,0 +1,24 @@
+
+dsquid:S1774œ"GConvert this usage of the ternary operator to an "if"/"else" structure.(ÝáŸŒüÿÿÿÿ
+hsquid:S37769"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(³ò…f
+dsquid:S1941<"HMove the declaration of "iceCandidates" closer to the code that uses it.(ÓÈÑÿýÿÿÿÿ
+Isquid:IndentationCheck³"!Make this line start at column 7.(¹Á…†þÿÿÿÿ
+dsquid:S1774²"GConvert this usage of the ternary operator to an "if"/"else" structure.(ÝáŸŒüÿÿÿÿ
+dsquid:S1774›"GConvert this usage of the ternary operator to an "if"/"else" structure.(ÒÄßËýÿÿÿÿ
+isquid:S1132A"MMove the "SUCCESS" string literal on the left side of this string comparison.(Ü²»òÿÿÿÿÿ
+fsquid:S1132X"OMove the "candidate" string literal on the left side of this string comparison.(úè‹¯
+=squid:S1166€"%Either log or rethrow this exception.(ï­£Ä
+p
+squid:S109Ž"TAssign this magic number 200 to a well-named constant, and use the constant instead.(îã¾Øÿÿÿÿÿ
+gsquid:S1132U"KMove the "offer" string literal on the left side of this string comparison.(Ú¸Éùÿÿÿÿ
+Psquid:S1162"8Remove the usage of the checked exception 'IOException'.(î¶çì
+_squid:S1774¾"GConvert this usage of the ternary operator to an "if"/"else" structure.(ÙŠ©‹
+^squid:S1941†"FMove the declaration of "turnServers" closer to the code that uses it.(ÖŽÆ¢
+hsquid:S1192œ"KDefine a constant instead of duplicating this literal "credential" 4 times.(ÝáŸŒüÿÿÿÿ
+Zsquid:S1941="CMove the declaration of "offerSdp" closer to the code that uses it.(¼¶¶
+– squid:MethodCyclomaticComplexity9"kThe Cyclomatic Complexity of this method "roomHttpResponseParse" is 12 which is greater than 10 authorized.(³ò…f
+i
+squid:S134l"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(öÆ†‚üÿÿÿÿ
+Asquid:S1166~"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+i
+squid:S134U"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ú¸Éùÿÿÿÿ

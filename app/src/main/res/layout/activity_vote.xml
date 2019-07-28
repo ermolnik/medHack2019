@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+  <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      tools:ignore="MergeRootFrame">
+
+
+    <!--5-->
+    <ImageView
+        android:id="@+id/vote_5"
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:src="@drawable/vote_5" />
+
+    <!--3-->
+    <ImageView
+        android:id="@+id/vote_3"
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:src="@drawable/vote_3"
+        android:visibility="gone" />
+
+
+    <!--submit-->
+    <ImageView
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true"
+        android:background="#0DC5C5C5" />
+
+    <!--feedback-->
+    <ImageView
+        android:id="@+id/feedback"
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:src="@drawable/feedback"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/review"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="48dp"
+        android:gravity="bottom"
+        android:hint="Напишите, что Вас не устроило"
+        android:lines="5"
+        android:visibility="invisible" />
+
+
+  </RelativeLayout>
+</ScrollView>

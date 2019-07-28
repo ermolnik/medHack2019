@@ -1,0 +1,15 @@
+
+Osquid:S1612=",Replace this lambda with a method reference.(¢‹Åùÿÿÿÿ8¨»À™Ã-
+dsquid:S00112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Jsquid:S1612B",Replace this lambda with a method reference.(¶Œ‡¥8àíÀ™Ã-
+osquid:S1132Á"WMove the "remove-candidates" string literal on the left side of this string comparison.(Æ‚ÿú
+nsquid:S1192ˆ"JDefine a constant instead of duplicating this literal "candidate" 5 times.(°‰¨›øÿÿÿÿ8Ú‚Â™Ã-
+Qsquid:S2196¿"4Convert this "if/else if" structure into a "switch".(Ğ×Ò×øÿÿÿÿ
+esquid:S1192‰"FDefine a constant instead of duplicating this literal "label" 3 times.(‘¹¿õ8Ú‚Â™Ã-
+Bsquid:S1166Ş"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+csquid:S1132Ì"KMove the "offer" string literal on the left side of this string comparison.(„Ø”ı
+Ysquid:S1941P"=Move the declaration of "ip" closer to the code that uses it.(¦áåÙøÿÿÿÿ
+dsquid:S1132È"LMove the "answer" string literal on the left side of this string comparison.(ÁïÀ
+]squid:TrailingCommentCheck¯"6Move this trailing comment on the previous empty line.(ö¤¥¿
+lsquid:S1132¿"OMove the "candidate" string literal on the left side of this string comparison.(Ğ×Ò×øÿÿÿÿ
+bsquid:TrailingCommentCheckÒ"6Move this trailing comment on the previous empty line.(ŒĞ­„üÿÿÿÿ

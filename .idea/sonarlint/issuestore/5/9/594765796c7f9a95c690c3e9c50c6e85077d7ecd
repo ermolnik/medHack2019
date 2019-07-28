@@ -1,0 +1,24 @@
+
+vsquid:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(†„®Èıÿÿÿÿ8áÆËœÃ-
+Csquid:S1641ó"Convert this Set to an EnumSet.( íœğüÿÿÿÿ8áÆËœÃ-
+6squid:S1641C"Convert this Set to an EnumSet.(ğÄäÍ
+]squid:MissingDeprecatedCheckĞ"(Add the missing @deprecated Javadoc tag.(¿–ù şÿÿÿÿ8áÆËœÃ-
+Š
+squid:S138ã"gThis method has 85 lines, which is greater than the 75 lines authorized. Split it into smaller methods.(†„®Èıÿÿÿÿ8áÆËœÃ-
+?squid:S2211"!Specify a type for: 'focusChange'(€‹Û8ØÇÊœÃ-
+csquid:S1774g"GConvert this usage of the ternary operator to an "if"/"else" structure.(Ñ¨Íäøÿÿÿÿ
+squid:S1151‘"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(¡÷Ã®ÿÿÿÿÿ8áÆËœÃ-
+Ysquid:S1133Ğ"5Do not forget to remove this deprecated code someday.(¿–ù şÿÿÿÿ8áÆËœÃ-
+bsquid:S1188"DReduce this lambda expression number of lines from 30 to at most 20.(€‹Û8ØÇÊœÃ-
+Wsquid:S1213s";Move this constructor to comply with Java Code Conventions.(äª½Ùûÿÿÿÿ
+^
+squid:S126Ú";"if ... else if" constructs should end with "else" clauses.(îªòúÿÿÿÿ8áÆËœÃ-
+h
+squid:S109O"RAssign this magic number 2 to a well-named constant, and use the constant instead.(³·Ï´
+Ksquid:S2974"4Make this class "final" or add a public constructor.(õ‹×
+^squid:S1774f"GConvert this usage of the ternary operator to an "if"/"else" structure.(ÄŠæà
+¥ squid:MethodCyclomaticComplexityã"lThe Cyclomatic Complexity of this method "updateAudioDeviceState" is 32 which is greater than 10 authorized.(†„®Èıÿÿÿÿ8áÆËœÃ-
+Nsquid:S1066©"/Merge this if statement with the enclosing one.(ß°ÍË8èÿÏœÃ-
+qsquid:S1142Ğ"MReduce the number of returns of this method 4, down to the maximum allowed 3.(¿–ù şÿÿÿÿ8áÆËœÃ-
+esquid:CallToDeprecatedMethodœ"7Remove this use of "hasWiredHeadset"; it is deprecated.(ûŠåçüÿÿÿÿ
+Lsquid:S1068"5Remove this unused "SPEAKERPHONE_TRUE" private field.(Œ®œÑ

@@ -1,0 +1,12 @@
+
+xsquid:S1067Ó"[Reduce the number of conditional operators (20) used in the expression (maximum allowed 3).(÷óËùÿÿÿÿ
+Psquid:S1172Š"8Remove this unused method parameter "sharedPreferences".(ì¤«ü
+_squid:S1126¢"BReplace this if-then-else statement by a single method invocation.(ÇäÇıÿÿÿÿ
+W
+squid:S126é";"if ... else if" constructs should end with "else" clauses.(¾Òİùÿÿÿÿ
+vsquid:S1820"ZRefactor this class so it has no more than 20 fields, rather than the 36 it currently has.(¥ß¹Ëÿÿÿÿÿ
+_squid:S1126•"BReplace this if-then-else statement by a single method invocation.(ÇäÇıÿÿÿÿ
+dsquid:S1774†"GConvert this usage of the ternary operator to an "if"/"else" structure.(…Ì¶Œøÿÿÿÿ
+œ squid:MethodCyclomaticComplexityÂ"oThe Cyclomatic Complexity of this method "onSharedPreferenceChanged" is 39 which is greater than 10 authorized.(®„®“
+ssquid:S1067Ä"[Reduce the number of conditional operators (10) used in the expression (maximum allowed 3).(Ö…¼Ÿ
+Vsquid:S1258":Add a constructor to the class, or provide default values.(¥ß¹Ëÿÿÿÿÿ

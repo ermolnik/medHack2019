@@ -1,0 +1,21 @@
+
+[squid:S1155ë">Use isEmpty() to check whether the collection is empty or not.(²áİ³ùÿÿÿÿ
+isquid:S1192ì"LDefine a constant instead of duplicating this literal "SCO is on: " 5 times.(åúâÀüÿÿÿÿ
+Wsquid:S3398ƒ":Move this method into "BluetoothHeadsetBroadcastReceiver".(ÙÂ–Øùÿÿÿÿ
+Fsquid:S1172¶".Remove this unused method parameter "context".(ŠøÎ×
+Ssquid:S1213™";Move this constructor to comply with Java Code Conventions.(ÁõàÏ
+Usquid:S20393">Explicitly declare the visibility for "scoConnectionAttempts".(ş¤Ò
+V
+squid:S126o";"if ... else if" constructs should end with "else" clauses.(³ıú¶üÿÿÿÿ
+Lsquid:S2047±"/Rename this method to start with "is" or "has".(îòÍ‡úÿÿÿÿ
+Hsquid:S00108n")Either remove or fill this block of code.(šÜá8˜„ÕœÃ-
+Q
+squid:S126s";"if ... else if" constructs should end with "else" clauses.(‘¦Èø
+jsquid:S1142ƒ"MReduce the number of returns of this method 9, down to the maximum allowed 3.(ÙÂ–Øùÿÿÿÿ
+Osquid:S1612>",Replace this lambda with a method reference.( èÔºüÿÿÿÿ8áÊ»™Ã-
+dsquid:S1142ª"MReduce the number of returns of this method 5, down to the maximum allowed 3.(ú¡­,
+ squid:MethodCyclomaticComplexity]"_The Cyclomatic Complexity of this method "onReceive" is 13 which is greater than 10 authorized.(š³ÿÿÿÿÿÿ
+nsquid:S3776]"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(š³ÿÿÿÿÿÿ
+Hsquid:S00108m")Either remove or fill this block of code.( Ñ™½8˜„ÕœÃ-
+R
+squid:S126‡";"if ... else if" constructs should end with "else" clauses.(şß£Â

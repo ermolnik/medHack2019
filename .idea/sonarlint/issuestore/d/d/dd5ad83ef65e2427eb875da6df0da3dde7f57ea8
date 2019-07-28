@@ -1,0 +1,10 @@
+
+Ysquid:S2696 "6Make the enclosing method "static" or remove this set.(À¡ï›øÿÿÿÿ8ÈôÙ£Ã-
+Isquid:S1602$",Remove useless curly braces around statement(è¿¥!8áýè¢Ã-
+^squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ8Ìü¬¢Ã-
+4squid:S2211$"Specify a type for: 'v'(è¿¥!8áýè¢Ã-
+^squid:S2039";Explicitly declare the visibility for "doctorNotAvailable".(ï©·†þÿÿÿÿ8¢ƒç¢Ã-
+_squid:UselessImportCheck"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8Ø¸¬¢Ã-
+4squid:S2211"Specify a type for: 'v'(·Þôu8ÊÅë¢Ã-
+Ssquid:S2039"0Explicitly declare the visibility for "goVideo".(ï©·†þÿÿÿÿ8¢ƒç¢Ã-
+:squid:S2211"Specify a type for: 'v'(Ø‰÷Õÿÿÿÿÿ8Ÿ»Ø£Ã-

@@ -1,0 +1,4 @@
+
+Wsquid:S1213";Move this constructor to comply with Java Code Conventions.(×ÏÒÍÿÿÿÿÿ
+Psquid:S2974"4Make this class "final" or add a public constructor.(ë£¶“üÿÿÿÿ
+`squid:S1192"IUse already-defined constant 'TAG' instead of duplicating its value here.(óý¿ó

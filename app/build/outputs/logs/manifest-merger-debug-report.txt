@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+MERGED from [org.webrtc:google-webrtc:1.0.28262] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/cdcdc4b81ea66aff00580bc589b01cfb/AndroidManifest.xml:11:1-14:12
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8b2ee2a739f5ae4035f4d03f9bb7cf41/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1bfb4d76009464b4ba705abb7450fef6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1a3e62c805b21caa7fabf70c7508f265/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/de3728a563e673d2292bc600b943fd6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9ac9a03a364e575856c0ce6b795e1b14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9d23a9e6da7363dcd42a6f6b420a652a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/ef15aeb21ec05e1c10eb24f0f373959e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0e3000e4908f0dfe11e3db8efa7daf3b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2370374d4443c3f816e0ea41e4bcc072/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/47da466be12c080272831795c4f90a6c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d4637430c3f28efa5b05caee29597f15/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0c1b3a4b8b46e8c3f5a23d235fbe3ec4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2dcdd5203bb8f345153b4f205826e07c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/af8f5fc6d2cf91aa8050ac6c351c7c8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/3217ef2f4d2af2d9d22564b68ac23a1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/b7f5cd44b3516f1eb34ae6258a810621/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/7391b75944ab15554a28e3c35a16853f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/ad3aa71171bad4cc2aa98d5021c18518/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8026b482b7d6e7274c43b12b55f325fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/6e12928eb52a00c58dcc4d259b369d89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/071bc19c7f22375749dd60fe045e479d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9e2ba2d0c4548f6fda8df18af306f744/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/fdbdddb2a09dd14acd2832f27ad9d243/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/6454a23452b7dc2c571026e325031098/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/3aee9df91dd17024a27ad19cf35bf944/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/da58e49e50965ac18edc4cce52da011b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/69d8e69bd15d5eb414e689a8e99ae5f0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/4e66ecb4e903b6d5aa39ba5edce2cf96/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/aedbb27a390b9988912d92a16057b0e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d204c805b52e1090c4f7cafbc34aa5da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9c298f7993627cabfbed37e8f386ab29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/497868f08235f4858a1996c1fab84c57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2d1621d6516689ea34436564aea4f189/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/541589e46569ed70ff31823e9f7e6a60/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0343c7f2a48c1f484648224fe521c14c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1cd80b0dddc560c59a635c4f51834639/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d4249d3ca8e942ca28a2b5e5e974224a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:6:5-37
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:8:3-58
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:8:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:9:3-68
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:9:17-65
+uses-feature#0x00020000
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:10:3-12:33
+	android:glEsVersion
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:11:7-39
+	android:required
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:12:7-30
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:14:3-63
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:14:20-60
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:15:3-77
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:15:20-74
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:16:3-78
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:16:20-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:17:3-69
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:17:20-66
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:18:3-66
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:18:20-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:19:3-65
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:19:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:20:3-79
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:20:20-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:21:3-77
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:21:20-74
+application
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:24:3-78:17
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8b2ee2a739f5ae4035f4d03f9bb7cf41/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8b2ee2a739f5ae4035f4d03f9bb7cf41/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1bfb4d76009464b4ba705abb7450fef6/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1bfb4d76009464b4ba705abb7450fef6/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/69d8e69bd15d5eb414e689a8e99ae5f0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/69d8e69bd15d5eb414e689a8e99ae5f0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/4e66ecb4e903b6d5aa39ba5edce2cf96/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/4e66ecb4e903b6d5aa39ba5edce2cf96/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/69d8e69bd15d5eb414e689a8e99ae5f0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:29:7-34
+	android:label
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:28:7-39
+	android:debuggable
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:26:7-32
+	tools:ignore
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:30:7-40
+	android:icon
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:27:7-41
+	android:allowBackup
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:25:7-33
+activity#ru.ermolnik.medication.ui.activity.ConnectActivity
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:32:5-49:16
+	android:label
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:34:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:33:9-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:appr.tc+data:host:appr.tc+data:scheme:http+data:scheme:https
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:36:7-48:23
+action#android.intent.action.VIEW
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:37:9-61
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:37:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:39:9-68
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:39:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:40:9-70
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:40:19-67
+data
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:42:9-44:38
+	android:host
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:43:13-35
+	android:scheme
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:44:13-35
+activity#ru.ermolnik.medication.ui.activity.SettingsActivity
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:51:5-53:49
+	android:label
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:53:9-46
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:52:9-75
+activity#ru.ermolnik.medication.ui.activity.CallActivity
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:55:5-60:52
+	android:screenOrientation
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:59:9-45
+	android:label
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:58:9-41
+	android:configChanges
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:57:9-87
+	android:theme
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:60:9-49
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:56:9-71
+activity#ru.ermolnik.medication.rtc_client.VoteController
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:62:5-65:56
+	android:screenOrientation
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:64:9-45
+	android:theme
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:65:9-53
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:63:9-50
+activity#ru.ermolnik.medication.rtc_client.ListController
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:67:5-76:16
+	android:screenOrientation
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:69:9-45
+	android:theme
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:70:9-53
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:68:9-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:72:7-75:23
+action#android.intent.action.MAIN
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:73:9-61
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:73:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:74:9-69
+	android:name
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml:74:19-66
+uses-sdk
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+MERGED from [org.webrtc:google-webrtc:1.0.28262] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/cdcdc4b81ea66aff00580bc589b01cfb/AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.28262] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/cdcdc4b81ea66aff00580bc589b01cfb/AndroidManifest.xml:13:3-72
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8b2ee2a739f5ae4035f4d03f9bb7cf41/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8b2ee2a739f5ae4035f4d03f9bb7cf41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1bfb4d76009464b4ba705abb7450fef6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1bfb4d76009464b4ba705abb7450fef6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1a3e62c805b21caa7fabf70c7508f265/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1a3e62c805b21caa7fabf70c7508f265/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/de3728a563e673d2292bc600b943fd6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/de3728a563e673d2292bc600b943fd6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9ac9a03a364e575856c0ce6b795e1b14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9ac9a03a364e575856c0ce6b795e1b14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9d23a9e6da7363dcd42a6f6b420a652a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9d23a9e6da7363dcd42a6f6b420a652a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/ef15aeb21ec05e1c10eb24f0f373959e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/ef15aeb21ec05e1c10eb24f0f373959e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0e3000e4908f0dfe11e3db8efa7daf3b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0e3000e4908f0dfe11e3db8efa7daf3b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2370374d4443c3f816e0ea41e4bcc072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2370374d4443c3f816e0ea41e4bcc072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/47da466be12c080272831795c4f90a6c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/47da466be12c080272831795c4f90a6c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d4637430c3f28efa5b05caee29597f15/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d4637430c3f28efa5b05caee29597f15/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0c1b3a4b8b46e8c3f5a23d235fbe3ec4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0c1b3a4b8b46e8c3f5a23d235fbe3ec4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2dcdd5203bb8f345153b4f205826e07c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2dcdd5203bb8f345153b4f205826e07c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/af8f5fc6d2cf91aa8050ac6c351c7c8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/af8f5fc6d2cf91aa8050ac6c351c7c8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/3217ef2f4d2af2d9d22564b68ac23a1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/3217ef2f4d2af2d9d22564b68ac23a1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/b7f5cd44b3516f1eb34ae6258a810621/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/b7f5cd44b3516f1eb34ae6258a810621/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/7391b75944ab15554a28e3c35a16853f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/7391b75944ab15554a28e3c35a16853f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/ad3aa71171bad4cc2aa98d5021c18518/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/ad3aa71171bad4cc2aa98d5021c18518/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8026b482b7d6e7274c43b12b55f325fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/8026b482b7d6e7274c43b12b55f325fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/6e12928eb52a00c58dcc4d259b369d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/6e12928eb52a00c58dcc4d259b369d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/071bc19c7f22375749dd60fe045e479d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/071bc19c7f22375749dd60fe045e479d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9e2ba2d0c4548f6fda8df18af306f744/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9e2ba2d0c4548f6fda8df18af306f744/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/fdbdddb2a09dd14acd2832f27ad9d243/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/fdbdddb2a09dd14acd2832f27ad9d243/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/6454a23452b7dc2c571026e325031098/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/6454a23452b7dc2c571026e325031098/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/3aee9df91dd17024a27ad19cf35bf944/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/3aee9df91dd17024a27ad19cf35bf944/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/da58e49e50965ac18edc4cce52da011b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/da58e49e50965ac18edc4cce52da011b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/69d8e69bd15d5eb414e689a8e99ae5f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/69d8e69bd15d5eb414e689a8e99ae5f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/4e66ecb4e903b6d5aa39ba5edce2cf96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/4e66ecb4e903b6d5aa39ba5edce2cf96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/aedbb27a390b9988912d92a16057b0e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/aedbb27a390b9988912d92a16057b0e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d204c805b52e1090c4f7cafbc34aa5da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d204c805b52e1090c4f7cafbc34aa5da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9c298f7993627cabfbed37e8f386ab29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/9c298f7993627cabfbed37e8f386ab29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/497868f08235f4858a1996c1fab84c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/497868f08235f4858a1996c1fab84c57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2d1621d6516689ea34436564aea4f189/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/2d1621d6516689ea34436564aea4f189/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/541589e46569ed70ff31823e9f7e6a60/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/541589e46569ed70ff31823e9f7e6a60/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0343c7f2a48c1f484648224fe521c14c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/0343c7f2a48c1f484648224fe521c14c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1cd80b0dddc560c59a635c4f51834639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/1cd80b0dddc560c59a635c4f51834639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d4249d3ca8e942ca28a2b5e5e974224a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ermolnik/.gradle/caches/transforms-2/files-2.1/d4249d3ca8e942ca28a2b5e5e974224a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ermolnik/Desktop/apprtc/apprtc-master/app/src/main/AndroidManifest.xml

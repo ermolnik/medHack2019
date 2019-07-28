@@ -1,0 +1,72 @@
+
+;squid:S1309"#Suppressing warnings is not allowed(†ã‹Ã
+;squid:S1309®"#Suppressing warnings is not allowed(”ôÁÏ
+]squid:TrailingCommentCheck"6Move this trailing comment on the previous empty line.(Ù”îù
+Jsquid:S4248•"3Refactor this code to use a "static final" Pattern.(„Æ•9
+n
+squid:S109™"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ë­ÑŠÿÿÿÿÿ
+=squid:S1166É"%Either log or rethrow this exception.(‹±ÃÆ
+gsquid:S1941ù"JMove the declaration of "lastSeenMaxFreq" closer to the code that uses it.(óù¾Òùÿÿÿÿ
+k
+squid:S109ğ"TAssign this magic number 100 to a well-named constant, and use the constant instead.(¾™ÅÄ
+Hsquid:S20398"1Explicitly declare the visibility for "userTime".(‹õ ã
+n
+squid:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.( ×ªÿÿÿÿÿ
+^squid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(şÂÌÖ
+n
+squid:S109"RAssign this magic number 8 to a well-named constant, and use the constant instead.(µÓõ€üÿÿÿÿ
+=squid:S1166Ë"%Either log or rethrow this exception.(ï­£Ä
+Gsquid:S2325ö"*Make "readFreqFromFile" a "static" method.(’£øÿÿÿÿ
+bsquid:TrailingCommentCheck’"6Move this trailing comment on the previous empty line.(ÊÄâòúÿÿÿÿ
+p
+squid:S109Ğ"TAssign this magic number 0.5 to a well-named constant, and use the constant instead.(åŞÍ¿ûÿÿÿÿ
+]squid:S2147ş"ECombine this catch with the one at line 381, which has the same body.(ï­£Ä
+esquid:S1142ø"MReduce the number of returns of this method 5, down to the maximum allowed 3.(îğ¢Ö
+>squid:S2959Å"!Remove this extraneous semicolon.(£æĞşÿÿÿÿ
+`squid:S1941ú"HMove the declaration of "cpuFreqCurSum" closer to the code that uses it.(ûá¸»
+esquid:S1854¯"HRemove this useless assignment to local variable "possiblyIgnoredError".(Âª˜ûÿÿÿÿ
+:
+squid:S818ó"#Upper-case this literal "f" suffix.(à…æ²
+]squid:TrailingCommentCheck®"6Move this trailing comment on the previous empty line.(”ôÁÏ
+— squid:MethodCyclomaticComplexityø"jThe Cyclomatic Complexity of this method "sampleCpuUtilization" is 16 which is greater than 10 authorized.(îğ¢Ö
+^squid:S1192Ã"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ñ…Äõ
+l
+squid:S109ó"UAssign this magic number 100f to a well-named constant, and use the constant instead.(à…æ²
+squid:S4087È"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ƒµ¹ıÿÿÿÿ
+`squid:S1941û"HMove the declaration of "cpuFreqMaxSum" closer to the code that uses it.(×¯ùÜ
+i
+squid:S109—"RAssign this magic number 5 to a well-named constant, and use the constant instead.(•¶»‚
+Lsquid:S2221Í"4Catch a list of specific exception subtypes instead.(”ı¾
+p
+squid:S109Ğ"TAssign this magic number 100 to a well-named constant, and use the constant instead.(åŞÍ¿ûÿÿÿÿ
+bsquid:TrailingCommentCheckÆ"6Move this trailing comment on the previous empty line.(ûÛÍÃüÿÿÿÿ
+;squid:S1309"#Suppressing warnings is not allowed(†ã‹Ã
+jsquid:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(îğ¢Ö
+=squid:S1166Í"%Either log or rethrow this exception.(”ı¾
+=squid:S1166ş"%Either log or rethrow this exception.(ï­£Ä
+;squid:S1309˜"#Suppressing warnings is not allowed(†ã‹Ã
+Isquid:S00108ı")Either remove or fill this block of code.(‹±ÃÆ8Àª©Ã-
+bsquid:TrailingCommentCheckÖ"6Move this trailing comment on the previous empty line.(íÒºÌüÿÿÿÿ
+i
+squid:S109Ÿ"RAssign this magic number 6 to a well-named constant, and use the constant instead.(¤ıÅ
+]
+squid:S881["HExtract this increment or decrement operator into a dedicated statement.(ê¨“)
+Usquid:S1244¹"=Equality tests should not be made with floating point values.(ş‹ò³
+Lsquid:S2221¥"4Catch a list of specific exception subtypes instead.(”ı¾
+Vsquid:S1481¯"9Remove this unused "possiblyIgnoredError" local variable.(Âª˜ûÿÿÿÿ
+;squid:S1309¢"#Suppressing warnings is not allowed(†ã‹Ã
+Wsquid:S1213q";Move this constructor to comply with Java Code Conventions.(¥ÜÕ“üÿÿÿÿ
+=squid:S1166ı"%Either log or rethrow this exception.(‹±ÃÆ
+p
+squid:S109¬"TAssign this magic number 0.5 to a well-named constant, and use the constant instead.(¤ñ‘–şÿÿÿÿ
+n
+squid:S109›"RAssign this magic number 4 to a well-named constant, and use the constant instead.(¹©»›ıÿÿÿÿ
+Hsquid:S2039:"1Explicitly declare the visibility for "idleTime".(éŒÀ
+i
+squid:S109 "RAssign this magic number 7 to a well-named constant, and use the constant instead.(€µàÂ
+Isquid:S00108ş")Either remove or fill this block of code.(ï­£Ä8Àª©Ã-
+Esquid:S1604¯"(Make this anonymous inner class a lambda(Âª˜ûÿÿÿÿ
+Osquid:S20399"3Explicitly declare the visibility for "systemTime".(›è®óøÿÿÿÿ
+Asquid:S2325Ï")Make "doubleToPercent" a "static" method.(‘ß–
+n
+squid:S109š"RAssign this magic number 3 to a well-named constant, and use the constant instead.(Ï¡ãöúÿÿÿÿ

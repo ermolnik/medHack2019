@@ -1,0 +1,32 @@
+
+}squid:S1450s"ZRemove the "hangOutCall" field and declare it as a local variable in the relevant methods.(×ŞÍ”şÿÿÿÿ8³€™¤Ã-
+Ksquid:S1612–",Replace this lambda with a method reference.(áõÿ©8¨Ã-
+Bsquid:S1309°"#Suppressing warnings is not allowed(ï•–Ã8ëÍä˜Ã-
+qsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ßìê¯8ëÍä˜Ã-
+Zsquid:S2696ú"6Make the enclosing method "static" or remove this set.(˜¿•óşÿÿÿÿ8¨Ã-
+Asquid:S2211Ø""Specify a type for: 'dialog', 'id'(æ”ƒÚ8¨Ã-
+lsquid:S1142ó"MReduce the number of returns of this method 5, down to the maximum allowed 3.(ôãŸâ8¨Ã-
+osquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ÍÉ°Ğùÿÿÿÿ8¨Ã-
+ksquid:S1774•"GConvert this usage of the ternary operator to an "if"/"else" structure.(´·¥Éüÿÿÿÿ8¨Ã-
+]squid:S12589":Add a constructor to the class, or provide default values.(ÜÉò°ÿÿÿÿÿ8ëÍä˜Ã-
+fsquid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı8¨Ã-
+Psquid:S1612É",Replace this lambda with a method reference.(Ï¾¡İùÿÿÿÿ8¨Ã-
+†
+squid:S138±"hThis method has 142 lines, which is greater than the 75 lines authorized. Split it into smaller methods.(ßìê¯8ëÍä˜Ã-
+Dsquid:S1166ù"%Either log or rethrow this exception.(ï­£Ä8¨Ã-
+Xsquid:S1258z":Add a constructor to the class, or provide default values.(Ã¬¦ë8ëÍä˜Ã-
+Msquid:S2325‡".Make "createCameraCapturer" a "static" method.(â½Êñ8¨Ã-
+Zsquid:S2696û"6Make the enclosing method "static" or remove this set.(‰—ˆ©ıÿÿÿÿ8ëÍä˜Ã-
+psquid:S00103˜"KSplit this 121 characters long line (which is greater than 120 authorized).(€Ÿ…Õüÿÿÿÿ8Şæ˜Ã-
+ksquid:S00103–"KSplit this 129 characters long line (which is greater than 120 authorized).(áõÿ©8º®™Ã-
+rsquid:ModifiersOrderCheck‡"EReorder the modifiers to comply with the Java Language Specification.(¹¤­’8ëÍä˜Ã-
+4squid:S00121ø"Missing curly brace.(×™¹8¨Ã-
+squid:S14489"lclass "CallActivity" has 44 methods, which is greater than the 35 authorized. Split it into smaller classes.(ÜÉò°ÿÿÿÿÿ8ëÍä˜Ã-
+qsquid:ModifiersOrderCheck~"EReorder the modifiers to comply with the Java Language Specification.(Ì¯Í«8ëÍä˜Ã-
+}squid:S18209"ZRefactor this class so it has no more than 20 fields, rather than the 28 it currently has.(ÜÉò°ÿÿÿÿÿ8ëÍä˜Ã-
+¥squid:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›¯¸¡øÿÿÿÿ8¨Ã-
+Vsquid:S3047—"7Combine this loop with the one that starts on line 395.(ì½»£8¨Ã-
+’ squid:MethodCyclomaticComplexity±"^The Cyclomatic Complexity of this method "onCreate" is 18 which is greater than 10 authorized.(ßìê¯8ëÍä˜Ã-
+µsquid:S12009"‘Split this class into smaller and more specialized ones to reduce its dependencies on other classes from 42 to the maximum authorized 20 or less.(ÜÉò°ÿÿÿÿÿ8ëÍä˜Ã-
+ksquid:S1774–"GConvert this usage of the ternary operator to an "if"/"else" structure.(¹âÈÏüÿÿÿÿ8ëÍä˜Ã-
+;squid:S2211½"Specify a type for: 'v'(ù–¶Ùüÿÿÿÿ8§ÆŸ¤Ã-

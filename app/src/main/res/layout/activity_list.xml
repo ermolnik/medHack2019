@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<RelativeLayout
+    android:layout_marginTop="-20dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="MergeRootFrame">
+
+    <!--5-->
+    <ImageView
+        android:id="@+id/list"
+        android:src="@drawable/list2"
+        android:layout_width="match_parent"
+        android:layout_height="1200dp" />
+
+    <ImageView
+        android:id="@+id/goVideo"
+        android:layout_width="300dp"
+        android:layout_height="110dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/list"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="260dp"
+        android:background="#0DC5C5C5" />
+
+    <ImageView
+        android:id="@+id/doctorNotAvailable"
+        android:layout_width="300dp"
+        android:layout_height="110dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/list"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="440dp"
+        android:background="#0DC5C5C5" />
+
+</RelativeLayout>
+</ScrollView>

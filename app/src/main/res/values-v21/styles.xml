@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="AppTheme" parent="android:Theme.Material" />
+
+  <!-- Base application theme. -->
+  <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+  </style>
+  <style name="AppTheme1.NoActionBar">
+    <item name="windowActionBar">false</item>
+  </style>
+</resources>

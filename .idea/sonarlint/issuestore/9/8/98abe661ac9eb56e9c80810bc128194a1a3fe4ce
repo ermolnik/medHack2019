@@ -1,0 +1,66 @@
+
+isquid:TrailingCommentCheckò"6Move this trailing comment on the previous empty line.(†ãèñıÿÿÿÿ8ßºşœÃ-
+Qsquid:S4248â"3Refactor this code to use a "static final" Pattern.(ï”îJ8îÃùœÃ-
+]squid:S1155ü">Use isEmpty() to check whether the collection is empty or not.(‰õ¯8îÃùœÃ-
+osquid:S1941ä"KMove the declaration of "sdpFormatUpdated" closer to the code that uses it.(õ²ÍÇşÿÿÿÿ8îÃùœÃ-
+csquid:S1188ñ"DReduce this lambda expression number of lines from 22 to at most 20.(ÕêÓ¬8îÃùœÃ-
+Y
+squid:S126¨";"if ... else if" constructs should end with "else" clauses.(´É§ş8ßºşœÃ-
+¥squid:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’şÃÙùÿÿÿÿ8ßºşœÃ-
+r
+squid:S109ä"TAssign this magic number 720 to a well-named constant, and use the constant instead.(ŞØü¹8îÃùœÃ-
+ysquid:S2301ò"UProvide multiple methods instead of using "enable" to determine which action to take.(†İ²²ùÿÿÿÿ8îÃùœÃ-
+Ssquid:S2221¨"4Catch a list of specific exception subtypes instead.(”ı¾8ÆûóœÃ-
+Bsquid:S1309ç"#Suppressing warnings is not allowed(¶½ç8îÃùœÃ-
+ysquid:S1820¯"ZRefactor this class so it has no more than 20 fields, rather than the 22 it currently has.(¸‡î8ÆûóœÃ-
+9squid:S00121Ğ"Missing curly brace.(Ã”Üşşÿÿÿÿ8ßºşœÃ-
+`squid:CallToDeprecatedMethodì"0Remove this use of "getStats"; it is deprecated.(®Ó˜8îÃùœÃ-
+vsquid:S1820J"ZRefactor this class so it has no more than 20 fields, rather than the 37 it currently has.(­ëËıøÿÿÿÿ
+Wsquid:S4248Ç"3Refactor this code to use a "static final" Pattern.(š  üüÿÿÿÿ8ùşœÃ-
+dsquid:TrailingCommentCheckç"6Move this trailing comment on the previous empty line.(¶½ç8îÃùœÃ-
+fsquid:S1774›"GConvert this usage of the ternary operator to an "if"/"else" structure.(Á§±„8ŸßıœÃ-
+qsquid:S1142Æ"MReduce the number of returns of this method 4, down to the maximum allowed 3.(“öªîüÿÿÿÿ8ùşœÃ-
+Psquid:S1612ø",Replace this lambda with a method reference.(²èÄ„ÿÿÿÿÿ8îÃùœÃ-
+v
+squid:S109°"SAssign this magic number 30 to a well-named constant, and use the constant instead.(Å€Íİÿÿÿÿÿ8îÃùœÃ-
+lsquid:S1142Ã"MReduce the number of returns of this method 4, down to the maximum allowed 3.(’¹âò8îÃùœÃ-
+Msquid:S2143“")Use the Java 8 Date and Time API instead.(”Ç©šùÿÿÿÿ8îÃùœÃ-
+Isquid:S00108ß")Either remove or fill this block of code.(ä ¹€8îÃùœÃ-
+„squid:ClassCyclomaticComplexityJ"TThe Cyclomatic Complexity of this class is 228 which is greater than 200 authorized.(­ëËıøÿÿÿÿ
+jsquid:S1192»"FDefine a constant instead of duplicating this literal "false" 4 times.(ÆıÏ°ıÿÿÿÿ8îÃùœÃ-
+™ squid:MethodCyclomaticComplexityà"eThe Cyclomatic Complexity of this method "setStartBitrate" is 11 which is greater than 10 authorized.(¤êÌ«8îÃùœÃ-
+®squid:S1200J"‘Split this class into smaller and more specialized ones to reduce its dependencies on other classes from 56 to the maximum authorized 20 or less.(­ëËıøÿÿÿÿ
+W
+squid:S864ƒ"9Add parentheses to make the operator precedence explicit.(ºßÇÌ8îÃùœÃ-
+Gsquid:S1309ß"#Suppressing warnings is not allowed(½€«³şÿÿÿÿ8îÃùœÃ-
+Qsquid:S1135ç"2Complete the task associated to this TODO comment.(¶½ç8îÃùœÃ-
+œ squid:MethodCyclomaticComplexity¥"cThe Cyclomatic Complexity of this method "closeInternal" is 12 which is greater than 10 authorized.(Ã§°øÿÿÿÿ8îÃùœÃ-
+Ksquid:S1612ì",Replace this lambda with a method reference.(®Ó˜8îÃùœÃ-
+{squid:S1188Ó"\Reduce this anonymous class number of lines from 22 to at most 20, or make it a named class.(ãó¢õ8ßºşœÃ-
+¥squid:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÑİùÿÿÿÿ8ßºşœÃ-
+qsquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¤êÌ«8îÃùœÃ-
+ksquid:S00112Á"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îÃùœÃ-
+esquid:S2142ß"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8îÃùœÃ-
+s
+squid:S109ä"UAssign this magic number 1280 to a well-named constant, and use the constant instead.(ŞØü¹8îÃùœÃ-
+msquid:S00104"]This file has 1,079 lines, which is greater than 750 authorized. Split it into smaller files.
+Ÿsquid:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì¶&8ßºşœÃ-
+Y
+squid:S126¶";"if ... else if" constructs should end with "else" clauses.(™Æ€µ8ßºşœÃ-
+squid:S1448J"tclass "PeerConnectionClient" has 43 methods, which is greater than the 35 authorized. Split it into smaller classes.(­ëËıøÿÿÿÿ
+Ssquid:S1066Š"/Merge this if statement with the enclosing one.(õÎËûÿÿÿÿ8îÃùœÃ-
+s
+squid:S109‘"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(Êš8‡ÌıœÃ-
+u
+squid:S109·"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ËªÈúÿÿÿÿ8ŸßıœÃ-
+Ssquid:S2221û"4Catch a list of specific exception subtypes instead.(”ı¾8îÃùœÃ-
+fsquid:S1774ƒ"GConvert this usage of the ternary operator to an "if"/"else" structure.(ºßÇÌ8îÃùœÃ-
+s
+squid:S109ÿ"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(¿¹åü8îÃùœÃ-
+rsquid:S2259ò"NA "NullPointerException" could be thrown; "remoteVideoTrack" is nullable here.(©»Õôıÿÿÿÿ8îÃùœÃ-
+bsquid:S00107Ç"BConstructor has 22 parameters, which is greater than 7 authorized.(åô¶ô8ÆûóœÃ-
+Usquid:S1162ª"6Remove the usage of the checked exception 'Exception'.(ö™û8ÆûóœÃ-
+csquid:S1188	"DReduce this lambda expression number of lines from 22 to at most 20.(ÕêÓ¬8ßºşœÃ-
+esquid:S2142À"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8îÃùœÃ-
+¥squid:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š´î›ıÿÿÿÿ8£ÿœÃ-
+bsquid:S1068a"FRemove this unused "DTLS_SRTP_KEY_AGREEMENT_CONSTRAINT" private field.(ØÈìóúÿÿÿÿ

@@ -1,0 +1,26 @@
+
+Osquid:S1612/",Replace this lambda with a method reference.(«®©Ãùÿÿÿÿ8ØØ¸šÃ-
+Bsquid:S1166É"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+nsquid:S1192³"JDefine a constant instead of duplicating this literal "candidate" 5 times.(°‰¨›øÿÿÿÿ8†ÚŠÃ-
+e
+squid:S134ş"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(éôıé
+csquid:S1132ı"KMove the "offer" string literal on the left side of this string comparison.(„Ø”ı
+osquid:S1132î"WMove the "remove-candidates" string literal on the left side of this string comparison.(Æ‚ÿú
+j
+squid:S134ñ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ô²¯Úûÿÿÿÿ
+š squid:MethodCyclomaticComplexityà"hThe Cyclomatic Complexity of this method "onWebSocketMessage" is 13 which is greater than 10 authorized.(’ÇÃıÿÿÿÿ
+lsquid:S1132ì"OMove the "candidate" string literal on the left side of this string comparison.(Ğ×Ò×øÿÿÿÿ
+dsquid:S00112®"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S1132õ"LMove the "answer" string literal on the left side of this string comparison.(ÁïÀ
+csquid:S1188È"DReduce this lambda expression number of lines from 21 to at most 20.(š÷ñ8ĞÂ‹Ã-
+jsquid:S1132Æ"MMove the "SUCCESS" string literal on the left side of this string comparison.(Ü²»òÿÿÿÿÿ
+e
+squid:S134ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(³î¹û
+Fsquid:S2325m"(Make "getQueryString" a "static" method.(­¦Ì¨8ıº—šÃ-
+esquid:S1192´"FDefine a constant instead of duplicating this literal "label" 3 times.(‘¹¿õ8†ÚŠÃ-
+Qsquid:S2196ì"4Convert this "if/else if" structure into a "switch".(Ğ×Ò×øÿÿÿÿ
+osquid:S3776à"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(’ÇÃıÿÿÿÿ
+Bsquid:S1166‘"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+jsquid:S00103@"KSplit this 123 characters long line (which is greater than 120 authorized).(üÌú‡8âş¯˜Ã-
+ksquid:S1192š"GDefine a constant instead of duplicating this literal "answer" 3 times.(“¾…Òùÿÿÿÿ8íÛ¹šÃ-
+fsquid:S1132…"IMove the "bye" string literal on the left side of this string comparison.(å ²ïûÿÿÿÿ
